@@ -8,7 +8,7 @@
 
 - 以下为手机端和电脑端的效果，自适应
 
-  ![](https://tuchuangs.com/imgs/2022/12/12/00423b0b75b1838d.png)
+  [![image.png](https://i.postimg.cc/qR05wGGF/image.png)](https://postimg.cc/67jc5ngV)
 
   
 
